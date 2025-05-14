@@ -68,7 +68,7 @@ export default {
 					'dark-purple': '#7E69AB',
 					'light-purple': '#E5DEFF',
 					green: '#F2FCE2',
-					yellow: '#FEF7CD',
+					yellow: '#FFECB3', // Changed from #FEF7CD to a warmer, more golden yellow
 					orange: '#FDE1D3',
 					gray: '#F1F0FB',
 				}
